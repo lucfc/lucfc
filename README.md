@@ -1,6 +1,6 @@
 ### Hi there, I'm Lucas 👋
 
-- 🔭 I’m currently working on back-end(Mulesoft) 
+- 🔭 I’m currently working on back-end (Mulesoft) 
 - 🌱 I’m currently learning React and TypeScript
 - ⚡ Fun fact: I'm a physic teacher 
 
