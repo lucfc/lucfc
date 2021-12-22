@@ -20,7 +20,7 @@
 </div>
   
  ### Contact me !!!
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<hr>
  
 <div> 
   <a href = "mailto:lucasfcarvalho.17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
